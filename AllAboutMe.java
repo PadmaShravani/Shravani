@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+/*Deatails about me learning print statements and repalce methods*/
 public class AllAboutMe {
 
 	public static void main(String[] args) {
